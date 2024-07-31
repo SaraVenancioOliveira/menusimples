@@ -8,7 +8,7 @@ padding: 1em 2em 1em 1em ;
 
 a{
     font-family: "Playwrite AR", cursive;
-    text-decoration: none;/*para tirar o sublinhado dos links*
+    text-decoration: none;
 }
     a:hover{
     background-color:#A9A9A9
