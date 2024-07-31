@@ -1,4 +1,5 @@
 li{
     display: inline;
-
+float: right;
+padding: 1em 1em 1em 1em 1em;
 }
