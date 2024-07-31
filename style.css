@@ -10,3 +10,8 @@ a{
     font-family: "Playwrite AR", cursive;
     text-decoration: none;/*para tirar o sublinhado dos links*
 }
+    a:hover{
+    background-color:#A9A9A9
+    color:#fff
+    font-size:20px
+}
